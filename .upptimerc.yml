@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: tekhnee # Your GitHub username
+repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
@@ -10,8 +10,8 @@ sites:
     url: https://cloud.tekhn.ee
   - name: Tekhnee Learn
     url: https://learn.tekhn.ee
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+#  - name: Broken Site
+#    url: https://thissitedoesnotexist.com
 #  - name: Secret Site
 #    url: $SECRET_SITE
 
@@ -27,8 +27,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Contact
+      href: mailto:info@tekhnee.org
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
