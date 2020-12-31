@@ -22,8 +22,8 @@ status-website:
   baseUrl: /status
   logoUrl: https://learn.tekhn.ee/pluginfile.php/1/core_admin/logo/0x150/1608497647/Tekhnee%20Logo
   name: System Status
-  introTitle: "This status panel is updated every 5 minutes."
-  introMessage: Courtesy of [Upptime](https://upptime.js.org/).
+  introTitle: "Updated every 5 minutes."
+# introMessage: Courtesy of [Upptime](https://upptime.js.org/).
   navbar:
     - title: Status
       href: /
