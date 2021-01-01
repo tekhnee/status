@@ -10,15 +10,11 @@ skipHomepageUpdate: true
 # Add your sites here
 sites:
   - name: Tekhnee Login
-    url: https://login.tekhn.ee
+    url: $LOGIN_LINK
   - name: Tekhnee Cloud
-    url: https://cloud.tekhn.ee
+    url: $CLOUD_BENCHMARK_LINK
   - name: Tekhnee Learn
-    url: https://learn.tekhn.ee
-#  - name: Broken Site
-#    url: https://thissitedoesnotexist.com
-#  - name: Secret Site
-#    url: $SECRET_SITE
+    url: $LEARN_LINK
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
