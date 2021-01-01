@@ -18,7 +18,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: https://status.tekhn.ee
+  cname: status.tekhn.ee
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /status
   logoUrl: https://learn.tekhn.ee/pluginfile.php/1/core_admin/logo/0x150/1608497647/Tekhnee%20Logo
