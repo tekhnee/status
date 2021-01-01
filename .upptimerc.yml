@@ -2,6 +2,11 @@
 owner: tekhnee # Your GitHub username
 repo: status # Your GitHub repository name
 
+# Omit metadata from GitHub repo page.
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+
 # Add your sites here
 sites:
   - name: Tekhnee Login
