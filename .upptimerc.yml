@@ -28,6 +28,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Tekhnee
+      href: https://tekhnee.org
     - title: Contact
       href: mailto:info@tekhnee.org
 
