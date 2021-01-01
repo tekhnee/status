@@ -7,7 +7,7 @@ skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: true
 
-# Add your sites here
+# Add sites here
 sites:
   - name: Tekhnee Login
     url: $LOGIN_LINK
