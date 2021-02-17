@@ -26,12 +26,13 @@ status-website:
 # introTitle: "Updated every 5 minutes."
   introMessage: Updated every 5 minutes.
   navbar:
-    - title: Status
-      href: /
     - title: Tekhnee
       href: https://tekhnee.org
-    - title: Contact
+    - title: Support
       href: mailto:info@tekhnee.org
+  robotsText: "User-agent: * \n Disallow: /"
+  favicon: https://tekhn.ee/wp-content/uploads/2018/07/cropped-icon_blue_only_transparent-2-32x32.png
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
