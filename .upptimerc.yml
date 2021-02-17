@@ -33,6 +33,8 @@ status-website:
   robotsText: "User-agent: * \n Disallow: /"
   favicon: https://tekhn.ee/wp-content/uploads/2018/07/cropped-icon_blue_only_transparent-2-32x32.png
 
+i18n:
+  footer:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
