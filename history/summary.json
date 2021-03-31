@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tekhnee-login",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 581,
-    "timeDay": 473,
+    "uptimeYear": "100.00%",
+    "time": 580,
+    "timeDay": 524,
     "timeWeek": 504,
-    "timeMonth": 477,
-    "timeYear": 581,
-    "dailyMinutesDown": {
-      "2021-02-21": 47
-    }
+    "timeMonth": 478,
+    "timeYear": 580,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tekhnee Cloud",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 2971,
-    "timeDay": 3201,
-    "timeWeek": 2941,
-    "timeMonth": 2793,
-    "timeYear": 2971,
+    "time": 2967,
+    "timeDay": 2523,
+    "timeWeek": 2900,
+    "timeMonth": 2785,
+    "timeYear": 2967,
     "dailyMinutesDown": {
       "2021-02-21": 47
     }
@@ -45,18 +43,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tekhnee-learn",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 731,
-    "timeDay": 952,
-    "timeWeek": 804,
-    "timeMonth": 759,
-    "timeYear": 731,
-    "dailyMinutesDown": {
-      "2021-02-21": 47
-    }
+    "uptimeYear": "100.00%",
+    "time": 730,
+    "timeDay": 672,
+    "timeWeek": 796,
+    "timeMonth": 756,
+    "timeYear": 730,
+    "dailyMinutesDown": {}
   }
 ]
