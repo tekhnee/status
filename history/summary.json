@@ -42,17 +42,17 @@
     "url": "$LEARN_LINK",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tekhnee-learn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 730,
-    "timeDay": 672,
-    "timeWeek": 796,
-    "timeMonth": 756,
-    "timeYear": 730,
+    "time": 727,
+    "timeDay": 561,
+    "timeWeek": 752,
+    "timeMonth": 747,
+    "timeYear": 727,
     "dailyMinutesDown": {}
   }
 ]
