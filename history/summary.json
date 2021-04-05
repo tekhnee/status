@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 579,
-    "timeDay": 712,
-    "timeWeek": 526,
-    "timeMonth": 487,
-    "timeYear": 579,
+    "time": 578,
+    "timeDay": 525,
+    "timeWeek": 523,
+    "timeMonth": 489,
+    "timeYear": 578,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tekhnee-cloud",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 2967,
-    "timeDay": 3833,
-    "timeWeek": 2885,
-    "timeMonth": 2828,
-    "timeYear": 2967,
+    "uptimeYear": "99.97%",
+    "time": 2964,
+    "timeDay": 2511,
+    "timeWeek": 2879,
+    "timeMonth": 2827,
+    "timeYear": 2964,
     "dailyMinutesDown": {
       "2021-02-21": 47
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 738,
-    "timeDay": 887,
-    "timeWeek": 862,
-    "timeMonth": 788,
-    "timeYear": 738,
+    "time": 737,
+    "timeDay": 673,
+    "timeWeek": 841,
+    "timeMonth": 789,
+    "timeYear": 737,
     "dailyMinutesDown": {}
   }
 ]
