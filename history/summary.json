@@ -22,17 +22,17 @@
     "url": "$CLOUD_BENCHMARK_LINK",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tekhnee-cloud",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 3036,
-    "timeDay": 7795,
-    "timeWeek": 3667,
-    "timeMonth": 3208,
-    "timeYear": 3036,
+    "time": 3047,
+    "timeDay": 6173,
+    "timeWeek": 3778,
+    "timeMonth": 3248,
+    "timeYear": 3047,
     "dailyMinutesDown": {
       "2021-02-21": 47
     }
