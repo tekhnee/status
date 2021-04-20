@@ -22,7 +22,7 @@
     "url": "$CLOUD_BENCHMARK_LINK",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tekhnee-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
