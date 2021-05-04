@@ -22,7 +22,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /status
   logoUrl: https://learn.tekhn.ee/pluginfile.php/1/core_admin/logo/0x150/1608497647/Tekhnee%20Logo
-  name: System Status
+  name: System status
 # introTitle: "Updated every 5 minutes."
   introMessage: Updated every 5 minutes.
   navbar:
@@ -31,6 +31,7 @@ status-website:
     - title: Support
       href: mailto:info@tekhnee.org
   robotsText: "User-agent: * \n Disallow: /"
+  theme: tekhnee
   favicon: https://tekhn.ee/wp-content/uploads/2018/07/cropped-icon_blue_only_transparent-2-32x32.png
 
 i18n:
