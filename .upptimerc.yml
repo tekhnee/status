@@ -31,7 +31,7 @@ status-website:
     - title: Support
       href: mailto:info@tekhnee.org
   robotsText: "User-agent: * \n Disallow: /"
-  theme: tekhnee
+  theme: "tekhnee"
   favicon: https://tekhn.ee/wp-content/uploads/2018/07/cropped-icon_blue_only_transparent-2-32x32.png
 
 i18n:
