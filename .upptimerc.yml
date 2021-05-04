@@ -32,7 +32,7 @@ status-website:
       href: mailto:info@tekhnee.org
   robotsText: "User-agent: * \n Disallow: /"
   favicon: https://tekhn.ee/wp-content/uploads/2018/07/cropped-icon_blue_only_transparent-2-32x32.png
-  css: "body {background-color: #dce4ef;}"
+  css: "body {background: #dce4ef;}"
 
 i18n:
   footer: "&nbsp;"
