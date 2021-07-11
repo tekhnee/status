@@ -11,8 +11,8 @@ skipHomepageUpdate: true
 sites:
   - name: Tekhnee Login
     url: $LOGIN_LINK
-  - name: Tekhnee Cloud
-    url: $CLOUD_BENCHMARK_LINK
+#  - name: Tekhnee Cloud
+#    url: $CLOUD_BENCHMARK_LINK
   - name: Tekhnee Ensemble
     url: $ENSEMBLE_LINK
   - name: Tekhnee Learn
