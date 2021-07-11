@@ -17,8 +17,8 @@ sites:
     url: $ENSEMBLE_LINK
   - name: Tekhnee Learn
     url: $LEARN_LINK
-  - name: Tekhnee Talk
-    url: $TALK_LINK
+#  - name: Tekhnee Talk
+#    url: $TALK_LINK
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
