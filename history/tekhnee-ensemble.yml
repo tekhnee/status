@@ -1,7 +1,7 @@
 url: $ENSEMBLE_LINK
-status: down
-code: 503
-responseTime: 330
-lastUpdated: 2021-10-24T14:45:45.838Z
+status: up
+code: 200
+responseTime: 617
+lastUpdated: 2021-10-24T15:29:58.240Z
 startTime: Thu May 06 2021 08:39:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
