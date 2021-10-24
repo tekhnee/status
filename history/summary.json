@@ -6,18 +6,16 @@
     "slug": "tekhnee-login",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 548,
     "timeDay": 586,
     "timeWeek": 532,
     "timeMonth": 511,
     "timeYear": 548,
-    "dailyMinutesDown": {
-      "2021-10-24": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tekhnee Cloud",
@@ -25,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tekhnee-cloud",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 2823,
     "timeDay": 2344,
     "timeWeek": 2275,
     "timeMonth": 2376,
     "timeYear": 2823,
     "dailyMinutesDown": {
-      "2021-10-24": 3
+      "2021-10-24": 9
     }
   },
   {
@@ -44,19 +42,19 @@
     "url": "$ENSEMBLE_LINK",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tekhnee-ensemble",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 512,
-    "timeDay": 546,
-    "timeWeek": 486,
-    "timeMonth": 471,
-    "timeYear": 512,
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
+    "time": 511,
+    "timeDay": 492,
+    "timeWeek": 471,
+    "timeMonth": 467,
+    "timeYear": 511,
     "dailyMinutesDown": {
-      "2021-10-24": 13,
+      "2021-10-24": 0,
       "2021-05-24": 25
     }
   },
@@ -67,17 +65,15 @@
     "slug": "tekhnee-learn",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 716,
     "timeDay": 504,
     "timeWeek": 612,
     "timeMonth": 666,
     "timeYear": 716,
-    "dailyMinutesDown": {
-      "2021-10-24": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
