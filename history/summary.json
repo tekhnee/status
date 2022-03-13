@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tekhnee-cloud",
     "status": "down",
-    "uptime": "42.94%",
+    "uptime": "42.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "42.94%",
+    "uptimeYear": "42.88%",
     "time": 2256,
     "timeDay": 1034,
     "timeWeek": 817,
     "timeMonth": 851,
     "timeYear": 2084,
     "dailyMinutesDown": {
-      "2022-03-13": 34,
+      "2022-03-13": 539,
       "2022-03-12": 1440,
       "2022-03-11": 1440,
       "2022-03-10": 1440,
@@ -203,9 +203,9 @@
     "url": "$LEARN_LINK",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tekhnee-learn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -214,6 +214,8 @@
     "timeWeek": 608,
     "timeMonth": 631,
     "timeYear": 674,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-13": 0
+    }
   }
 ]
