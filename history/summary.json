@@ -34,7 +34,7 @@
     "timeMonth": 851,
     "timeYear": 2084,
     "dailyMinutesDown": {
-      "2022-03-13": 539,
+      "2022-03-13": 551,
       "2022-03-12": 1440,
       "2022-03-11": 1440,
       "2022-03-10": 1440,
@@ -203,19 +203,19 @@
     "url": "$LEARN_LINK",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tekhnee-learn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 680,
-    "timeDay": 805,
-    "timeWeek": 608,
-    "timeMonth": 631,
+    "time": 679,
+    "timeDay": 654,
+    "timeWeek": 595,
+    "timeMonth": 627,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2022-03-13": 0
+      "2022-03-13": 12
     }
   }
 ]
