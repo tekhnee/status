@@ -4,36 +4,39 @@
     "url": "$LOGIN_LINK",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tekhnee-login",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 521,
+    "time": 522,
     "timeDay": 469,
     "timeWeek": 544,
     "timeMonth": 616,
     "timeYear": 511,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 3
+    }
   },
   {
     "name": "Tekhnee Cloud",
     "url": "$CLOUD_BENCHMARK_LINK",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tekhnee-cloud",
-    "status": "up",
-    "uptime": "36.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "73.16%",
-    "uptimeMonth": "14.93%",
-    "uptimeYear": "36.42%",
-    "time": 2076,
+    "status": "down",
+    "uptime": "36.46%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "76.60%",
+    "uptimeMonth": "15.72%",
+    "uptimeYear": "36.46%",
+    "time": 2074,
     "timeDay": 2279,
     "timeWeek": 2108,
     "timeMonth": 2425,
     "timeYear": 1834,
     "dailyMinutesDown": {
+      "2022-06-21": 2,
       "2022-06-15": 1315,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
@@ -262,10 +265,10 @@
     "url": "$ENSEMBLE_LINK",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tekhnee-ensemble",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 492,
@@ -274,6 +277,7 @@
     "timeMonth": 542,
     "timeYear": 483,
     "dailyMinutesDown": {
+      "2022-06-21": 1,
       "2021-10-24": 44
     }
   },
@@ -282,9 +286,9 @@
     "url": "$LEARN_LINK",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tekhnee-learn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -293,6 +297,8 @@
     "timeWeek": 692,
     "timeMonth": 726,
     "timeYear": 643,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   }
 ]
