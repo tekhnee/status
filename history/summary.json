@@ -11,10 +11,10 @@
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.83%",
     "time": 537,
-    "timeDay": 835,
-    "timeWeek": 636,
+    "timeDay": 365,
+    "timeWeek": 597,
     "timeMonth": 612,
-    "timeYear": 559,
+    "timeYear": 558,
     "dailyMinutesDown": {
       "2022-12-18": 272,
       "2022-08-27": 92,
@@ -31,15 +31,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tekhnee-cloud",
     "status": "up",
-    "uptime": "58.55%",
+    "uptime": "58.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.01%",
-    "uptimeYear": "56.97%",
-    "time": 1824,
-    "timeDay": 1735,
-    "timeWeek": 1367,
-    "timeMonth": 1435,
+    "uptimeYear": "57.24%",
+    "time": 1819,
+    "timeDay": 914,
+    "timeWeek": 1291,
+    "timeMonth": 1425,
     "timeYear": 1703,
     "dailyMinutesDown": {
       "2022-12-18": 352,
@@ -207,8 +207,7 @@
       "2022-01-02": 1440,
       "2022-01-01": 1440,
       "2021-12-31": 1440,
-      "2021-12-30": 1440,
-      "2021-12-29": 1440
+      "2021-12-30": 1440
     }
   },
   {
@@ -222,9 +221,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.03%",
     "uptimeYear": "99.61%",
-    "time": 661,
-    "timeDay": 891,
-    "timeWeek": 756,
+    "time": 660,
+    "timeDay": 495,
+    "timeWeek": 679,
     "timeMonth": 679,
     "timeYear": 674,
     "dailyMinutesDown": {
