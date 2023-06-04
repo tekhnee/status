@@ -1,7 +1,7 @@
 url: $CLOUD_BENCHMARK_LINK
-status: down
-code: 503
-responseTime: 181
-lastUpdated: 2023-06-04T09:34:01.377Z
+status: up
+code: 200
+responseTime: 1018
+lastUpdated: 2023-06-04T10:31:54.803Z
 startTime: Sun Jul 11 2021 16:43:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
