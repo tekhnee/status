@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tekhnee-cloud",
     "status": "up",
-    "uptime": "67.81%",
+    "uptime": "67.82%",
     "uptimeDay": "64.51%",
     "uptimeWeek": "94.93%",
     "uptimeMonth": "95.61%",
-    "uptimeYear": "95.66%",
+    "uptimeYear": "95.68%",
     "time": 1564,
     "timeDay": 983,
     "timeWeek": 1218,
@@ -41,8 +41,7 @@
       "2022-06-08": 1440,
       "2022-06-07": 1440,
       "2022-06-06": 1440,
-      "2022-06-05": 1440,
-      "2022-06-04": 1440
+      "2022-06-05": 1440
     }
   },
   {
