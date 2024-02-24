@@ -1,35 +1,5 @@
 [
   {
-    "name": "Tekhnee Cloud",
-    "url": "$CLOUD_BENCHMARK_LINK",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "tekhnee-cloud",
-    "status": "up",
-    "uptime": "76.34%",
-    "uptimeDay": "96.87%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "98.59%",
-    "time": 1076,
-    "timeDay": 842,
-    "timeWeek": 841,
-    "timeMonth": 882,
-    "timeYear": 980,
-    "dailyMinutesDown": {
-      "2024-02-24": 45,
-      "2024-01-15": 17,
-      "2023-11-16": 810,
-      "2023-11-15": 1440,
-      "2023-11-14": 1440,
-      "2023-11-13": 1440,
-      "2023-11-12": 220,
-      "2023-06-04": 58,
-      "2023-06-03": 511,
-      "2023-05-06": 521,
-      "2023-05-05": 891
-    }
-  },
-  {
     "name": "Tekhnee Learn",
     "url": "$LEARN_LINK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
@@ -41,9 +11,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "98.96%",
     "time": 652,
-    "timeDay": 282,
-    "timeWeek": 487,
-    "timeMonth": 617,
+    "timeDay": 327,
+    "timeWeek": 485,
+    "timeMonth": 612,
     "timeYear": 643,
     "dailyMinutesDown": {
       "2024-02-24": 45,
