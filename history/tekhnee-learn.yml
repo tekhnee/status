@@ -1,7 +1,7 @@
 url: $LEARN_LINK
-status: down
-code: 503
-responseTime: 202
-lastUpdated: 2024-02-25T16:51:10.116Z
+status: up
+code: 200
+responseTime: 728
+lastUpdated: 2024-02-25T20:39:04.385Z
 startTime: 2020-12-31T18:42:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
