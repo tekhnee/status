@@ -4,7 +4,7 @@
     "url": "$LEARN_LINK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tekhnee-learn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 608,
     "timeYear": 637,
     "dailyMinutesDown": {
+      "2024-05-12": 0,
       "2024-02-25": 228,
       "2024-02-24": 45,
       "2024-01-15": 15,
