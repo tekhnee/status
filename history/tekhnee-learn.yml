@@ -1,7 +1,7 @@
 url: $LEARN_LINK
-status: down
-code: 404
-responseTime: 619
-lastUpdated: 2024-06-22T15:27:57.697Z
+status: up
+code: 200
+responseTime: 895
+lastUpdated: 2024-06-22T15:34:23.054Z
 startTime: 2020-12-31T18:42:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
