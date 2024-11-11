@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tekhnee-learn",
     "status": "down",
-    "uptime": "89.82%",
+    "uptime": "89.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "61.08%",
+    "uptimeYear": "60.81%",
     "time": 644,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 619,
+    "timeYear": 618,
     "dailyMinutesDown": {
-      "2024-11-10": 53,
+      "2024-11-11": 51,
+      "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
@@ -162,8 +163,7 @@
       "2023-11-16": 810,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
-      "2023-11-13": 1440,
-      "2023-11-12": 220
+      "2023-11-13": 1440
     }
   }
 ]
